@@ -1,7 +1,7 @@
 <h1 align="center">Hello There👋, I'm Ali</h1>
 
 <h3 align="center">
-IT Security Student | Cybersecurity • Cloud Security • Digital Forensics • GRC • ML & AI Enthusiast
+IT Security Student | Cybersecurity • Cloud Security • Digital Forensics • GRC 
 </h3>
 
 <p align="center">
@@ -19,10 +19,10 @@ IT Security Student | Cybersecurity • Cloud Security • Digital Forensics •
 ## 👨‍💻 About Me
 
 🎓 IT Security student at the German International University  
-🔐 Interested in Cybersecurity, Cloud Security, Digital Forensics, and Networking  
+🔐 Focused on Cybersecurity, Cloud Security, Digital Forensics, Networking & GRC  
 ☁️ Building secure systems and exploring AWS cloud technologies  
-🛡️ Interested in security analysis, risk management, and secure system design  
-🚀 Currently looking for internship and training opportunities  
+🛡️ Interested in security analysis, risk management & secure design  
+🚀 Currently seeking internship and training opportunities 
 
 ---
 
@@ -55,3 +55,21 @@ IT Security Student | Cybersecurity • Cloud Security • Digital Forensics •
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3l2i&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l2i&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3l2i&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ Secure AWS Mini-Jira
+Secure multi-AZ cloud architecture using AWS VPC, EC2, IAM, Cognito, Lambda and RBAC.
