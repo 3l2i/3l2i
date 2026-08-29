@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hello There👋, I'm Ali</h1>
 
-<!--
-**3l2i/3l2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+IT Security Student | Cybersecurity • Cloud Security • Digital Forensics • GRC • ML & AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-abouelanin-175aaa40a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:aliabdallah12376@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 IT Security student at the German International University  
+🔐 Interested in Cybersecurity, Cloud Security, Digital Forensics, and Networking  
+☁️ Building secure systems and exploring AWS cloud technologies  
+🛡️ Interested in security analysis, risk management, and secure system design  
+🚀 Currently looking for internship and training opportunities  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔐 Cybersecurity & Networking
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=amazonec2)
+![Lambda](https://img.shields.io/badge/Lambda-000000?style=for-the-badge&logo=awslambda)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
+![C%23](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+
+---
