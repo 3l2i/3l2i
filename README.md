@@ -56,15 +56,12 @@ IT Security Student | Cybersecurity • Cloud Security • Digital Forensics •
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3l2i&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l2i&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3l2i&theme=github-dark-blue&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=312i&theme=github-dark-blue&hide_border=true"
+  />
 </p>
 
 ---
