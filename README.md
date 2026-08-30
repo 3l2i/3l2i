@@ -60,7 +60,7 @@ IT Security Student | Cybersecurity • Cloud Security • Digital Forensics •
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=3l2i&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=3l2i&theme=github-dark-blue&hide_border=true&v=2"
   />
 </p>
 
