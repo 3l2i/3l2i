@@ -71,7 +71,7 @@ IT Security Student | Cybersecurity • Cloud Security • Digital Forensics •
 ### ☁️ Secure AWS Mini-Jira
 Secure multi-AZ cloud architecture using AWS VPC, EC2, IAM, Cognito, Lambda and RBAC.
 
-## 🛡️  Hospital SIEM BCRM
+## 🛡️ Hospital SIEM BCRM
 
 Business continuity, risk assessment, and BIA for an Elastic SIEM deployment in a fictional hospital.
 
